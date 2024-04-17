@@ -4,7 +4,7 @@
 Prints the email and the phone number from the website.
 Phone number is available for Nepal & USA as of now
 
-Developed by Ujjawal Shah (c) 2022
+Developed by Ujjawal Shah (c) 2024
 
 ## Examples of How To Use Package
 
